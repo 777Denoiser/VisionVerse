@@ -1,0 +1,9 @@
+torch
+torchvision
+pillow
+transformers
+clip
+scipy
+numpy
+matplotlib
+tqdm
